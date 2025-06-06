@@ -22,4 +22,12 @@
 
 - Solution:
   Implemented Rest endpoints 
-  Impleted AddMeeting OnSubmit. 
+  Implemeted AddMeeting OnSubmit.
+  Implemented handleDelete logic in MeetingView.
+
+- Demo and Solution Loom video:
+TLDR: https://www.loom.com/share/9f084e905ade40d4b373772893c4b3b0?sid=29d04a53-abeb-4d66-a803-64b980e5d2d1
+
+- Live Coding Loom videos: 
+Part1: https://www.loom.com/share/4f62ddbf19b54f6c8d4a3613c948bf64?sid=8614ff67-cdf3-4c88-9054-bf19fd6aac7f
+Part2: https://www.loom.com/share/dc8a7634028e42a08949eba22695499f?sid=7da6222f-0532-4e1a-8257-3fcfb4dbbeae
